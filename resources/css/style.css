@@ -1,3 +1,36 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1, h2, p {
+    color: white;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer{
+    text-align: right;
+    color: grey;
+}
+
 h1 {
-    
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.presentation, p{
+    font-family: verdana;
+    font-size: 21px;
+    color: grey !important; 
 }
